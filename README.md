@@ -11,6 +11,6 @@ Descomplica. I graduated from Senai in Digital Games Programming Technician. I a
 
 
 -   🚀  Skills:  **C# | Unity Engine.**
--   🎓  Studying:  **Computer Science **.
+-   🎓  Studying:  **Computer Science**
 - 🔍  Currently open to new opportunities.
 - 🎓  Unity Junior Programmer - Issued by Unity Technologies
